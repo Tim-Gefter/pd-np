@@ -67,7 +67,7 @@ print(cat_colors.codes)  # Числовые коды категорий
 Categories (3, object): ['Blue', 'Green', 'Red']
 [2 0 1 2 0 1]
 ```
-#т np.where(условие, значение_если_True, значение_если_False), используется в пандас для замены столбцов также
+# np.where(условие, значение_если_True, значение_если_False), используется в пандас для замены столбцов также
 ```python
 import pandas as pd
 import numpy as np
